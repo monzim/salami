@@ -9,10 +9,10 @@ A new **Android** & **web** application to auto genarate beautiful card. And use
 
 
 <p float="center">
-     <img src="/asstes/App_Screenshot/screenshot%20(8).png" width="220"/>
-  <img src="/asstes/App_Screenshot/screenshot%20(9).png" width="220"/>
-   <img src="/asstes/App_Screenshot/screenshot%20(10).png" width="220"/>
-   <img src="/asstes/App_Screenshot/screenshot%20(12).png" width="220"/>
+     <img src="/asstes/App_Screenshot/screenshot%20(8).png" width="200"/>
+  <img src="/asstes/App_Screenshot/screenshot%20(9).png" width="200"/>
+   <img src="/asstes/App_Screenshot/screenshot%20(10).png" width="200"/>
+   <img src="/asstes/App_Screenshot/screenshot%20(12).png" width="200"/>
 </p>
 
 ## Getting Started
