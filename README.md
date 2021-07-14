@@ -33,16 +33,18 @@ Download the app from Play Store
 
 
 <p float="left">
-  <img src="/asstes/App_Mockup/App_2_3_2.png" width="280" />
-<img src="/asstes/App_Mockup/App_full_1.png" width="280"/>
-   <img src="/asstes/App_Mockup/App_1.png" width="280"/>
+   <img src="/asstes/App_Mockup/App_2_1_small.jpg" width="210" />
+   <img src="/asstes/App_Mockup/App_2_3_2.png" width="210" />
+   <img src="/asstes/App_Mockup/App_full_1.png" width="210"/>
+   <img src="/asstes/App_Mockup/App_1.png" width="210"/>
 </p>
 
 
 <p float="left">
-<img src="/asstes/Web_Mockup/5_E_2_s.jpg" width="280"/>
-<img src="/asstes/Web_Mockup/1_A_1.png" width="280"/>
-   <img src="/asstes/Web_Mockup/1_A_2.png" width="280"/>
+     <img src="/asstes/Web_Mockup/5_E_2_s.jpg" width="210"/>
+      <img src="/asstes/Web_Mockup/1_A_1.png" width="210"/>
+     <img src="/asstes/Web_Mockup/1_A_2.png" width="210"/>
+   <img src="/asstes/Web_Mockup/2_B_1.png" width="210"/>
 </p>
 
 
