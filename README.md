@@ -7,6 +7,9 @@ Create beautiful cards for your Eid Donation.
 
 A new **Android** & **web** application to auto genarate beautiful card. And use those cards for takes money from relatives. 
 
+## Getting Started 🔴 
+You can download the application and get started.<h3> [Download apk](https://github.com/Monzim/salami/releases/download/v1.0/Salami_v1.0.apk) <br />
+ **Or** Visit our website  [WebSite](https://salami.web.app)<br />
 
 <p float="center">
      <img src="/asstes/App_Screenshot/screenshot%20(8).png" width="200"/>
@@ -15,7 +18,7 @@ A new **Android** & **web** application to auto genarate beautiful card. And use
    <img src="/asstes/App_Screenshot/screenshot%20(12).png" width="200"/>
 </p>
 
-## Getting Started
+## 
 You can download the application and get started. [Download apk](https://github.com/Monzim/salami/releases/download/v1.0/Salami_v1.0.apk)<br />
  **Or** Visit our website  [WebSite](https://salami.web.app)<br />
 
