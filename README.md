@@ -1,4 +1,4 @@
-<img src="/asstes/App_Mockup/App_3_2_1.png" width="1080"/>
+<img src="/asstes/App_Mockup/App_3_2.jpg" width="1080"/>
 
 # **Selami Nao** | **সালামী নাও** 
 Create beautiful cards for your Eid Donation.
@@ -19,8 +19,8 @@ You can download the application and get started.<h3> [Download apk](https://git
 </p>
 
 ## 
-You can download the application and get started. [Download apk](https://github.com/Monzim/salami/releases/download/v1.0/Salami_v1.0.apk)<br />
- **Or** Visit our website  [WebSite](https://salami.web.app)<br />
+You can download the application and get started. [PlayStore](https://play.google.com/store/apps/details?id=com.monzim.salami)<br />
+ **Or** Visit our website  [WebSite](https://salami.monzim.com)<br />
 
 ### Supported Platforms
  * Android
@@ -31,7 +31,7 @@ Download the app from Play Store
 * Play Store
 
 ### Logo
-<br /> <img src="/asstes/Logo/Selami%20App%20🚀1024.png" width="120" height="120" />
+<br /> <img src="/asstes/Logo/Selami%20App.png" width="120"/>
 ## Screenshot
 
 
